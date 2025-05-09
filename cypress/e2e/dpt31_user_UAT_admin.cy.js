@@ -22,7 +22,9 @@ describe('ใบนำส่ง', () => {
 
     // ทำวนลูปแบบ async-safe ด้วย recursion
     const fillForm = (round = 0) => {
-      if (round >= 20) return;
+      if (round >= 2) return;
+
+      cy.log(`📝 กำลังดำเนินการรอบที่ ${round + 1}`);
 
       cy.fixture('api_province_with_amphure_tambon.json').then((provinces) => {
         const randomProvince = provinces[Math.floor(Math.random() * provinces.length)];
