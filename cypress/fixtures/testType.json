@@ -1,0 +1,33 @@
+{
+"testTypes": [
+  "001PC Wire.xIsx",
+  "002PC Strand.XIsx",
+  "003RB and DB.XIsx",
+  "004Wire Mesh CDR.xlsx",
+  "005Wire Mesh CDD.x|sx",
+  "006CDR.XIsx",
+  "007CDD.xIsx",
+  "008Bending.XIsx",
+  "009ลวดเหล็กกล้าคาร์บอนต่ำ.xlsx",
+  "010Coupler.xIsx",
+  "011Welding.xIsx",
+  "012อะลูมิเนียมอัลลอย.xls",
+  "013เหล็กรูปพรรณ.xIs",
+  "014เหล็กยึดถังบรรจุแก๊ส.xIsx",
+  "015Cube.xlsx",
+  "016Cylinder.xIsx",
+  "017Coring.xIsx",
+  "018Unconfined Compression Test.XIs",
+  "019Coring with Picture.xlsx",
+  "020หินใหญ่.xIs",
+  "021ทรายถม.xls",
+  "022ทรายผสมคอนกรีต.xls",
+  "023CBR Test.xls",
+  "024Compaction Test and Filed Density Test.xIs",
+  "025แผ่นใยสังเคราะห์.xlsx",
+  "026ลวดเหล็กเคลือบสังกะสี.xIsx",
+  "027Calibration (เครื่องกดคอนกรีต).xIsx",
+  "028Calibration (วงแหวนรับแรง).xIsx",
+  "029Calibration (เครื่องแม่แรงไฮดรอลิค). xIsx"
+  ]
+}

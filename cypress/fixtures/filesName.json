@@ -1,0 +1,33 @@
+{
+  "files": [
+    { "testType": "001PC Wire.xIsx", "fileName": "001PC Wire.xlsx" },
+    { "testType": "002PC Strand.XIsx", "fileName": "002PC Strand.xlsx" },
+    { "testType": "003RB and DB.XIsx", "fileName": "003RB and DB.xlsx" },
+    { "testType": "004Wire Mesh CDR.xlsx", "fileName": "004Wire Mesh CDR.xlsx" },
+    { "testType": "005Wire Mesh CDD.x|sx", "fileName": "005Wire Mesh CDD.xlsx" },
+    { "testType": "006CDR.XIsx", "fileName": "006CDR.xlsx" },
+    { "testType": "007CDD.xIsx", "fileName": "007CDD.xlsx" },
+    { "testType": "008Bending.XIsx", "fileName": "008Bending.xlsx" },
+    { "testType": "009ลวดเหล็กกล้าคาร์บอนต่ำ.xlsx", "fileName": "009ลวดเหล็กกล้าคาร์บอนต่ำ.xlsx" },
+    { "testType": "010Coupler.xIsx", "fileName": "010Coupler.xlsx" },
+    { "testType": "011Welding.xIsx", "fileName": "011Welding.xlsx" },
+    { "testType": "012อะลูมิเนียมอัลลอย.xls", "fileName": "012อะลูมิเนียมอัลลอย.xls" },
+    { "testType": "013เหล็กรูปพรรณ.xIs", "fileName": "013เหล็กรูปพรรณ.xls" },
+    { "testType": "014เหล็กยึดถังบรรจุแก๊ส.xIsx", "fileName": "014เหล็กยึดถังบรรจุแก๊ส.xlsx" },
+    { "testType": "015Cube.xlsx", "fileName": "015Cube.xlsx" },
+    { "testType": "016Cylinder.xIsx", "fileName": "016Cylinder.xlsx" },
+    { "testType": "017Coring.xIsx", "fileName": "017Coring.xlsx" },
+    { "testType": "018Unconfined Compression Test.XIs", "fileName": "018Unconfined Compression Test.xls" },
+    { "testType": "019Coring with Picture.xlsx", "fileName": "019Coring with Picture.xlsx" },
+    { "testType": "020หินใหญ่.xIs", "fileName": "020หินใหญ่.xls" },
+    { "testType": "021ทรายถม.xls", "fileName": "021ทรายถม.xls" },
+    { "testType": "022ทรายผสมคอนกรีต.xls", "fileName": "022ทรายผสมคอนกรีต.xls" },
+    { "testType": "023CBR Test.xls", "fileName": "023CBR Test.xls" },
+    { "testType": "024Compaction Test and Filed Density Test.xIs", "fileName": "024Compaction Test and Filed Density Test.xlsx" },
+    { "testType": "025แผ่นใยสังเคราะห์.xlsx", "fileName": "025แผ่นใยสังเคราะห์.xlsx" },
+    { "testType": "026ลวดเหล็กเคลือบสังกะสี.xIsx", "fileName": "026ลวดเหล็กเคลือบสังกะสี.xlsx" },
+    { "testType": "027Calibration (เครื่องกดคอนกรีต).xIsx", "fileName": "027Calibration (เครื่องกดคอนกรีต).xlsx" },
+    { "testType": "028Calibration (วงแหวนรับแรง).xIsx", "fileName": "028Calibration (วงแหวนรับแรง).xlsx" },
+    { "testType": "029Calibration (เครื่องแม่แรงไฮดรอลิค). xIsx", "fileName": "029Calibration (เครื่องแม่แรงไฮดรอลิค).xlsx" }
+  ]
+}
